@@ -55,6 +55,11 @@ A collection of end-to-end data analysis and machine learning projects using Pyt
 - Description: Binary SMS spam detector — TF-IDF vectorization + Linear SVC reaching 99% accuracy, with corrupted-row detection during EDA and leakage-free vectorization.
 - Tech Stack: Python, Pandas, Scikit-Learn (TfidfVectorizer, SVC, LabelEncoder).
 - Highlight: Full NLP pipeline with precision/recall evaluation on imbalanced data and real-sample inference with label decoding.
+
+  ### 11. 💼 [Employee Salary Prediction with XGBoost](employee-salary-xgboost/)
+- Description: Predicting salaries of 10,000 employees with XGBoost (R² ≈ 99%) including feature-importance interpretability showing Age and Experience as top salary drivers.
+- Tech Stack: Python, Pandas, Scikit-Learn, XGBoost.
+- Highlight: First Gradient Boosting project — with One-Hot Encoding and model interpretability via plot_importance.
 ---
 
 ## 🛠️ Tech Stack & Skills
