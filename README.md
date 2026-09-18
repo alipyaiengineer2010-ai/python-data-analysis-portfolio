@@ -35,6 +35,11 @@ A collection of end-to-end data analysis and machine learning projects using Pyt
 - Description: Predicting medical insurance charges by comparing 4 regression models (Random Forest achieved ~88% R²).
 - Tech Stack: Python, Pandas, Matplotlib, Scikit-Learn (LabelEncoder, RandomForestRegressor).
 - Key Insight: Smokers pay ~4x more insurance charges on average.
+
+  ### 7. 🛒 [Digikala Sentiment Analysis (Persian NLP)](digikala-sentiment-analysis/)
+- Description: Text classification of real Persian e-commerce reviews using TF-IDF + SVM to predict product recommendations (~77% accuracy).
+- Tech Stack: Python, Pandas, Scikit-Learn (TfidfVectorizer, SVC).
+- Highlight: First NLP project in this portfolio — works with Persian language text.
 ---
 
 ## 🛠️ Tech Stack & Skills
