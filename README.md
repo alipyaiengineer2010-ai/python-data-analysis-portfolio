@@ -50,6 +50,11 @@ A collection of end-to-end data analysis and machine learning projects using Pyt
 - Description: End-to-end pipeline: generating a synthetic dataset with NumPy, injecting missing values, cleaning with custom functions (median imputation, binary encoding), and feature engineering with pd.cut binning and a derived income label.
 - Tech Stack: Python, NumPy, Pandas, Matplotlib.
 - Highlight: Data Engineering skills — creating ML-ready data from scratch, not just consuming existing datasets.
+
+  ### 10. 📧 [Spam / Ham Classifier (NLP + SVM)](spam-classifier/)
+- Description: Binary SMS spam detector — TF-IDF vectorization + Linear SVC reaching 99% accuracy, with corrupted-row detection during EDA and leakage-free vectorization.
+- Tech Stack: Python, Pandas, Scikit-Learn (TfidfVectorizer, SVC, LabelEncoder).
+- Highlight: Full NLP pipeline with precision/recall evaluation on imbalanced data and real-sample inference with label decoding.
 ---
 
 ## 🛠️ Tech Stack & Skills
