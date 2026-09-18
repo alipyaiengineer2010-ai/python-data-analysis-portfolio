@@ -1,24 +1,37 @@
-# Python Data Analysis Portfolio
+# 📊 Python Data Analysis & Machine Learning Portfolio
 
-A collection of my coding projects, focusing on Python, Data Analysis, and Machine Learning.
+A collection of end-to-end data analysis and machine learning projects using Python, Pandas, Matplotlib, Seaborn, and Scikit-Learn.
 
-## 🛠️ Skills & Tools
-- Python — core programming
-- Pandas & NumPy — data cleaning and manipulation
-- Matplotlib & Seaborn — data visualization
-- Scikit-learn & XGBoost — machine learning
+---
 
-## 📂 Projects
+## 📁 Projects
 
-### 1. [Salary Prediction](./salary-prediction)
-* Predicting salary based on years of experience using Linear Regression.
-* Tools: Python, Pandas, Scikit-Learn, Seaborn.
-* 📓 [View Notebook](./salary-prediction/salary_prediction.ipynb)
+### 1. 🩺 [Diabetes Prediction](diabetes-prediction/)
+- Description: Binary classification project predicting the onset of diabetes based on diagnostic medical metrics.
+- Tech Stack: Python, Pandas, Seaborn, Scikit-Learn (Logistic Regression, Decision Tree Classifier).
+- Notebook: [diabetes-prediction.ipynb](diabetes-prediction/diabetes-prediction.ipynb)
 
-### 2. [Housing Price Prediction](./housing-price-prediction)
-* Predicting house prices with regression and exploratory data analysis (EDA).
-* Tools: Python, Pandas, Scikit-Learn, Seaborn.
-* 📓 [View Notebook](./housing-price-prediction/housing.ipynb)
+### 2. 🏠 [Housing Price Prediction](housing-price-prediction/)
+- Description: Machine learning regression pipeline to predict housing prices using California Housing dataset.
+- Tech Stack: Python, Pandas, Scikit-Learn (Linear Regression), Matplotlib.
+- Notebook: [housing.ipynb](housing-price-prediction/housing.ipynb)
 
-## 📫 Contact
-- LinkedIn: [Ali Mansoori](https://www.linkedin.com/)
+### 3. 💼 [Salary Prediction](salary-prediction/)
+- Description: Simple linear regression model predicting employee salary based on years of experience.
+- Tech Stack: Python, Pandas, Matplotlib, Scikit-Learn.
+- Notebook: [salary_prediction.ipynb](salary-prediction/salary_prediction.ipynb)
+
+---
+
+## 🛠️ Tech Stack & Skills
+- Languages: Python
+- Data Analysis & Preprocessing: Pandas, NumPy
+- Visualization: Matplotlib, Seaborn
+- Machine Learning: Scikit-Learn (Linear Regression, Logistic Regression, Decision Tree)
+- Environment: Visual Studio Code, Jupyter Notebook, Git & GitHub
+
+---
+
+## 📬 Connect with Me
+- GitHub: [@alipyaiengineer2010-ai](https://github.com/alipyaiengineer2010-ai)
+- LinkedIn: [Ali Mansoori](https://www.linkedin.com/in/ali-mansoori-ai)
