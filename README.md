@@ -21,6 +21,10 @@ A collection of end-to-end data analysis and machine learning projects using Pyt
 - Tech Stack: Python, Pandas, Matplotlib, Scikit-Learn.
 - Notebook: [salary_prediction.ipynb](salary-prediction/salary_prediction.ipynb)
 
+### 4. 🧠 [Personality Type Prediction](personality-prediction/)
+- Description: Machine learning classification pipeline to predict personality traits using behavioral and demographic features.
+- Tech Stack: Python, Pandas, Seaborn, Scikit-Learn (Logistic Regression, Decision Tree Classifier).
+- Notebook: [personality_prediction.ipynb](personality-prediction/personality_prediction.ipynb)
 ---
 
 ## 🛠️ Tech Stack & Skills
