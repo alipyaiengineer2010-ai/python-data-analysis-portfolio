@@ -45,6 +45,11 @@ A collection of end-to-end data analysis and machine learning projects using Pyt
 - Description: Content-based movie recommender for Persian Filimo data — TF-IDF vectorization + Cosine Similarity to suggest the top 5 movies matching any free-text query.
 - Tech Stack: Python, Pandas, Scikit-Learn (TfidfVectorizer, cosine_similarity).
 - Highlight: Recommendation engine (not just prediction!) working with Persian text input.
+
+  ### 9. 🧪 [Synthetic Dataset Generator & Feature Engineering](synthetic-dataset-generator/)
+- Description: End-to-end pipeline: generating a synthetic dataset with NumPy, injecting missing values, cleaning with custom functions (median imputation, binary encoding), and feature engineering with pd.cut binning and a derived income label.
+- Tech Stack: Python, NumPy, Pandas, Matplotlib.
+- Highlight: Data Engineering skills — creating ML-ready data from scratch, not just consuming existing datasets.
 ---
 
 ## 🛠️ Tech Stack & Skills
