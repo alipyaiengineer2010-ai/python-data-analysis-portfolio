@@ -60,6 +60,11 @@ A collection of end-to-end data analysis and machine learning projects using Pyt
 - Description: Predicting salaries of 10,000 employees with XGBoost (R² ≈ 99%) including feature-importance interpretability showing Age and Experience as top salary drivers.
 - Tech Stack: Python, Pandas, Scikit-Learn, XGBoost.
 - Highlight: First Gradient Boosting project — with One-Hot Encoding and model interpretability via plot_importance.
+
+  ### 12. 💰 [Adult Income Prediction with CatBoost](adult-income-catboost/)
+- Description: Predicting >$50K income from US Census data (32K records) using CatBoost with native categorical feature handling, class-imbalance weights, and early stopping (Accuracy 83%, Recall 0.86 for high-income class).
+- Tech Stack: Python, Pandas, Scikit-Learn, CatBoost, Matplotlib.
+- Highlight: First CatBoost project — no manual encoding, automatic overfitting detection at iteration 271.
 ---
 
 ## 🛠️ Tech Stack & Skills
