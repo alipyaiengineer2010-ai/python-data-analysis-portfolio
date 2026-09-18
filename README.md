@@ -25,6 +25,11 @@ A collection of end-to-end data analysis and machine learning projects using Pyt
 - Description: Machine learning classification pipeline to predict personality traits using behavioral and demographic features.
 - Tech Stack: Python, Pandas, Seaborn, Scikit-Learn (Logistic Regression, Decision Tree Classifier).
 - Notebook: [personality_prediction.ipynb](personality-prediction/personality_prediction.ipynb)
+
+### 5. 💳 [Credit Card Fraud Detection](fraud-detection/)
+- Description: Ensemble machine learning model using Random Forest to accurately detect fraudulent transactions.
+- Tech Stack: Python, Pandas, Scikit-Learn (RandomForestClassifier, StandardScaler).
+- Notebook: [fraud.ipynb](fraud-detection/fraud.ipynb)
 ---
 
 ## 🛠️ Tech Stack & Skills
