@@ -30,6 +30,11 @@ A collection of end-to-end data analysis and machine learning projects using Pyt
 - Description: Ensemble machine learning model using Random Forest to accurately detect fraudulent transactions.
 - Tech Stack: Python, Pandas, Scikit-Learn (RandomForestClassifier, StandardScaler).
 - Notebook: [fraud.ipynb](fraud-detection/fraud.ipynb)
+
+  ### 6. 🏥 [Insurance Cost Prediction](insurance-cost-prediction/)
+- Description: Predicting medical insurance charges by comparing 4 regression models (Random Forest achieved ~88% R²).
+- Tech Stack: Python, Pandas, Matplotlib, Scikit-Learn (LabelEncoder, RandomForestRegressor).
+- Key Insight: Smokers pay ~4x more insurance charges on average.
 ---
 
 ## 🛠️ Tech Stack & Skills
