@@ -40,6 +40,11 @@ A collection of end-to-end data analysis and machine learning projects using Pyt
 - Description: Text classification of real Persian e-commerce reviews using TF-IDF + SVM to predict product recommendations (~77% accuracy).
 - Tech Stack: Python, Pandas, Scikit-Learn (TfidfVectorizer, SVC).
 - Highlight: First NLP project in this portfolio — works with Persian language text.
+
+  ### 8. 🎬 [Movie Recommendation System (Persian NLP)](movie-recommendation-system/)
+- Description: Content-based movie recommender for Persian Filimo data — TF-IDF vectorization + Cosine Similarity to suggest the top 5 movies matching any free-text query.
+- Tech Stack: Python, Pandas, Scikit-Learn (TfidfVectorizer, cosine_similarity).
+- Highlight: Recommendation engine (not just prediction!) working with Persian text input.
 ---
 
 ## 🛠️ Tech Stack & Skills
